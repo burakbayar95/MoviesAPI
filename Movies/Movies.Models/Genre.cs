@@ -11,7 +11,7 @@ namespace Movies.Models
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Ad alanı boş geçilemez")]
-        public int Name { get; set; }
+        public string Name { get; set; }
 
         public virtual IList<Movie> Movies { get; set; }
 
