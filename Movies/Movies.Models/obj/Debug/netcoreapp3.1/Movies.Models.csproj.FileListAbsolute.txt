@@ -1,0 +1,9 @@
+C:\Users\burak\Desktop\MoviesAPI\MoviesAPI\Movies\Movies.Models\bin\Debug\netcoreapp3.1\Movies.Models.deps.json
+C:\Users\burak\Desktop\MoviesAPI\MoviesAPI\Movies\Movies.Models\bin\Debug\netcoreapp3.1\Movies.Models.dll
+C:\Users\burak\Desktop\MoviesAPI\MoviesAPI\Movies\Movies.Models\bin\Debug\netcoreapp3.1\Movies.Models.pdb
+C:\Users\burak\Desktop\MoviesAPI\MoviesAPI\Movies\Movies.Models\obj\Debug\netcoreapp3.1\Movies.Models.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\MoviesAPI\MoviesAPI\Movies\Movies.Models\obj\Debug\netcoreapp3.1\Movies.Models.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\MoviesAPI\MoviesAPI\Movies\Movies.Models\obj\Debug\netcoreapp3.1\Movies.Models.AssemblyInfo.cs
+C:\Users\burak\Desktop\MoviesAPI\MoviesAPI\Movies\Movies.Models\obj\Debug\netcoreapp3.1\Movies.Models.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\MoviesAPI\MoviesAPI\Movies\Movies.Models\obj\Debug\netcoreapp3.1\Movies.Models.dll
+C:\Users\burak\Desktop\MoviesAPI\MoviesAPI\Movies\Movies.Models\obj\Debug\netcoreapp3.1\Movies.Models.pdb

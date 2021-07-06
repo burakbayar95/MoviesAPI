@@ -6,6 +6,7 @@ using System.Text;
 
 namespace Movies.DataAccess.Repositories
 {
+
     public class EFGenreRepository : IGenreRepository
     {
         public Genre Add(IEntity entity)
